@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/wintellisys/78ab8810-272b-41b1-8c2e-29470494b2b4/9da1bc87-5443-40dd-87e4-d493d268dfa3/_apis/work/boardbadge/0c62b78b-82ca-4a2d-b779-3d94926e0941)](https://dev.azure.com/wintellisys/78ab8810-272b-41b1-8c2e-29470494b2b4/_boards/board/t/9da1bc87-5443-40dd-87e4-d493d268dfa3/Microsoft.RequirementCategory)
 # Introduction
 
 The Quantum Katas are a collection of self-paced tutorials and programming exercises to help you learn quantum computing and Q# programming.
